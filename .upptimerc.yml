@@ -3,21 +3,21 @@ owner: chaddy314 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Wikipedia ![Wikipedia](https://raw.githubusercontent.com/chaddy314/upptime/master/api/wikipedia/uptime.json)
+  - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Antares ![Antares](https://raw.githubusercontent.com/chaddy314/upptime/master/api/antares/uptime.json)
+  - name: Antares
     url: https://antares.chadbourne.eu
     maxResponseTime: 5000
-  - name: Leviathan ![Leviathan](https://raw.githubusercontent.com/chaddy314/upptime/master/api/leviathan/uptime.json)
+  - name: Leviathan
     url: https://leviathan.chadbourne.eu/health
     maxResponseTime: 5000
-  - name: Voyager ![Voyager](https://raw.githubusercontent.com/chaddy314/upptime/master/api/voyager/uptime.json)
+  - name: Voyager
     url: https://voyager.chadbourne.eu
     maxResponseTime: 5000
-  - name: Rigel ![Rigel](https://raw.githubusercontent.com/chaddy314/upptime/master/api/rigel/uptime.json)
+  - name: Rigel
     url: https://rigel.chadbourne.eu
     maxResponseTime: 5000
-  - name: Prokyon ![Prokyon](https://raw.githubusercontent.com/chaddy314/upptime/master/api/prokyon/uptime.json)
+  - name: Prokyon
     url: https://prokyon.chadbourne.eu
     maxResponseTime: 5000
 
