@@ -1,7 +1,7 @@
-url: https://antares.chadbourne.eu
+url: $ANTARES
 status: up
 code: 200
-responseTime: 879
-lastUpdated: 2025-10-17T23:14:13.995Z
+responseTime: 1482
+lastUpdated: 2025-10-18T13:43:49.467Z
 startTime: 2025-10-17T12:33:07.200Z
 generator: Upptime <https://github.com/upptime/upptime>
