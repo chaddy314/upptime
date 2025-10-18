@@ -6,19 +6,22 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Antares
-    url: https://antares.chadbourne.eu
+    url: $ANTARES
     maxResponseTime: 5000
   - name: Leviathan
-    url: https://leviathan.chadbourne.eu/health
+    url: $LEVIATHAN
+    maxResponseTime: 5000
+  - name: Euclid
+    url: $EUCLID
     maxResponseTime: 5000
   - name: Voyager
-    url: https://voyager.chadbourne.eu
+    url: $VOYAGER
     maxResponseTime: 5000
   - name: Rigel
-    url: https://rigel.chadbourne.eu
+    url: $RIGEL
     maxResponseTime: 5000
   - name: Prokyon
-    url: https://prokyon.chadbourne.eu
+    url: $PROKYON
     maxResponseTime: 5000
 
 status-website:
