@@ -1,7 +1,7 @@
-url: https://leviathan.chadbourne.eu/health
+url: $LEVIATHAN
 status: up
 code: 200
-responseTime: 510
-lastUpdated: 2025-10-17T23:14:14.688Z
+responseTime: 1007
+lastUpdated: 2025-10-18T13:43:50.655Z
 startTime: 2025-10-17T12:33:08.610Z
 generator: Upptime <https://github.com/upptime/upptime>
