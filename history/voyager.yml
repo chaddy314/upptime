@@ -1,7 +1,7 @@
-url: https://voyager.chadbourne.eu
+url: $VOYAGER
 status: up
 code: 200
-responseTime: 936
-lastUpdated: 2025-10-17T23:14:15.806Z
+responseTime: 1256
+lastUpdated: 2025-10-18T13:43:54.280Z
 startTime: 2025-10-17T12:33:10.203Z
 generator: Upptime <https://github.com/upptime/upptime>
