@@ -6,10 +6,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Antares
-    method: GET
-    url: $ANTARES_URL
-    headers:
-      - "NC-TOKEN: $ANTARES_TOKEN"
+    url: $ANTARES
     maxResponseTime: 5000
   - name: Leviathan
     url: $LEVIATHAN
