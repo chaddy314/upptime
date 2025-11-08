@@ -1,7 +1,7 @@
-url: $ANTARES_URL
-status: down
-code: 404
-responseTime: 569
-lastUpdated: 2025-11-08T12:19:58.069Z
+url: $ANTARES
+status: up
+code: 200
+responseTime: 575
+lastUpdated: 2025-11-08T12:21:11.644Z
 startTime: 2025-10-17T12:33:07.200Z
 generator: Upptime <https://github.com/upptime/upptime>
