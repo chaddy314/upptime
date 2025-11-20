@@ -1,7 +1,7 @@
 url: $LEVIATHAN
-status: down
-code: 502
-responseTime: 313
-lastUpdated: 2025-11-20T11:13:26.750Z
+status: up
+code: 200
+responseTime: 540
+lastUpdated: 2025-11-20T12:30:50.155Z
 startTime: 2025-10-17T12:33:08.610Z
 generator: Upptime <https://github.com/upptime/upptime>
