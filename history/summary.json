@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 190,
-    "timeDay": 233,
-    "timeWeek": 245,
-    "timeMonth": 226,
-    "timeYear": 190,
-    "dailyMinutesDown": {
-      "2025-12-03": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 188,
+    "timeDay": 129,
+    "timeWeek": 222,
+    "timeMonth": 221,
+    "timeYear": 188,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Antares",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 604,
-    "timeDay": 512,
-    "timeWeek": 533,
-    "timeMonth": 550,
-    "timeYear": 604,
+    "time": 606,
+    "timeDay": 665,
+    "timeWeek": 546,
+    "timeMonth": 559,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2025-11-08": 16
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.75%",
-    "time": 690,
-    "timeDay": 713,
+    "time": 689,
+    "timeDay": 640,
     "timeWeek": 549,
-    "timeMonth": 595,
-    "timeYear": 690,
+    "timeMonth": 590,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-11-20": 77,
       "2025-10-30": 94
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1582,
-    "timeDay": 1589,
-    "timeWeek": 1591,
-    "timeMonth": 1563,
-    "timeYear": 1582,
+    "time": 1585,
+    "timeDay": 1743,
+    "timeWeek": 1595,
+    "timeMonth": 1582,
+    "timeYear": 1585,
     "dailyMinutesDown": {
       "2025-10-20": 76
     }
@@ -91,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1155,
-    "timeDay": 1186,
-    "timeWeek": 1281,
-    "timeMonth": 1179,
-    "timeYear": 1155,
+    "time": 1158,
+    "timeDay": 1308,
+    "timeWeek": 1284,
+    "timeMonth": 1184,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2025-10-20": 43
     }
@@ -111,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 760,
-    "timeWeek": 757,
-    "timeMonth": 794,
-    "timeYear": 762,
+    "time": 765,
+    "timeDay": 938,
+    "timeWeek": 779,
+    "timeMonth": 806,
+    "timeYear": 765,
     "dailyMinutesDown": {}
   },
   {
@@ -129,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1065,
-    "timeDay": 1119,
-    "timeWeek": 1112,
-    "timeMonth": 1067,
-    "timeYear": 1065,
+    "time": 1070,
+    "timeDay": 1365,
+    "timeWeek": 1119,
+    "timeMonth": 1082,
+    "timeYear": 1070,
     "dailyMinutesDown": {}
   }
 ]
