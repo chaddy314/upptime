@@ -1,7 +1,7 @@
 url: $PROKYON
-status: down
-code: 404
-responseTime: 296
-lastUpdated: 2026-01-14T22:59:40.824Z
+status: up
+code: 200
+responseTime: 769
+lastUpdated: 2026-01-14T23:16:21.572Z
 startTime: 2025-10-17T12:33:12.740Z
 generator: Upptime <https://github.com/upptime/upptime>
