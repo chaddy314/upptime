@@ -1,7 +1,7 @@
 url: $EUCLID
-status: up
-code: 200
-responseTime: 1786
-lastUpdated: 2026-03-23T10:12:26.119Z
+status: down
+code: 502
+responseTime: 664
+lastUpdated: 2026-03-23T11:52:08.448Z
 startTime: 2025-10-18T13:43:50.833Z
 generator: Upptime <https://github.com/upptime/upptime>
