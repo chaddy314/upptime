@@ -98,16 +98,16 @@
     "url": "$RIGEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rigel",
-    "status": "up",
+    "status": "down",
     "uptime": "97.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.07%",
     "time": 834,
-    "timeDay": 970,
-    "timeWeek": 893,
-    "timeMonth": 868,
+    "timeDay": 833,
+    "timeWeek": 869,
+    "timeMonth": 862,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-05-11": 527,
@@ -121,7 +121,8 @@
       "2026-05-18": 725,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
-      "2026-05-15": 696
+      "2026-05-15": 696,
+      "2026-09-18": 0
     }
   }
 ]
