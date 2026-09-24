@@ -1,7 +1,7 @@
 url: $RIGEL
-status: down
-code: 502
-responseTime: 636
-lastUpdated: 2026-09-24T01:02:34.355Z
+status: up
+code: 200
+responseTime: 1538
+lastUpdated: 2026-09-24T15:12:21.462Z
 startTime: 2025-10-17T12:33:11.567Z
 generator: Upptime <https://github.com/upptime/upptime>
